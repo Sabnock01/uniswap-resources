@@ -6,6 +6,7 @@
 - [Source Code](#source-code)
 - [Research papers/Articles](#research-papersarticles)
 - [Videos/Podcasts/Tutorials](#videospodcaststutorials)
+- [Additional Resources](#additional-resources)
 
 ## Official Docs/Whitepapers
 - [Official docs](https://docs.uniswap.org/)
@@ -44,3 +45,6 @@
 - [Uniswap — Finematics](https://www.youtube.com/watch?v=LpjMgS4OVzs)
 - [Uniswap v3 — Finematics](https://www.youtube.com/watch?v=Ehm-OYBmlPM)
 - [Interview with Hayden Adams — Bankless](https://www.youtube.com/watch?v=uQS7WuQtXWs)
+
+## Additional Resources
+- [Uniswap combined metrics dashboard by Dan Robinson](https://dune.xyz/danrobinson/uniswap-combined-metrics)
