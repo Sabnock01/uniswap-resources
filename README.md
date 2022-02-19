@@ -2,8 +2,8 @@
 
 ## Navigation
 
-- [Official docs/Whitepapers]($official-docswhitepapers)
-- [Source code]($source-code)
+- [Official docs/Whitepapers]($Official-docswhitepapers)
+- [Source code]($Source-code)
 - [Research papers/Articles](#research-papersarticles)
 - [Videos/Podcasts/Tutorials](#videospodcaststutorials)
 
