@@ -2,10 +2,10 @@
 
 ## Navigation
 
-- [Official docs/Whitepapers]($docswhitepapers)
-- [Source code]($sourcecode)
-- [Research papers/Articles](#researchpapersarticles)
-- [Videos/Podcasts/Tutorials](#videostutorials)
+- [Official docs/Whitepapers]($official-docswhitepapers)
+- [Source code]($source-code)
+- [Research papers/Articles](#research-papersarticles)
+- [Videos/Podcasts/Tutorials](#videospodcaststutorials)
 
 ## Official docs/Whitepapers
 - [Official docs](https://docs.uniswap.org/)
