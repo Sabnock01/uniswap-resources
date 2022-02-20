@@ -42,6 +42,7 @@
 - [DeFi playlist — Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
 - [Uniswap v2 walkthrough — Moralis Web3](https://www.youtube.com/watch?v=bxV0OKPz-G4)
 - [Uniswap v3 walkthrough](https://drive.google.com/file/d/1dRifSAXxc-6HKCKH8tcygEmHxJTKAlxp/view)
+- [Uniswap simulation](https://hash.ai/blog/uniswap)
 - [Uniswap v2 — EatTheBlocks](https://www.youtube.com/watch?v=0Im5iaYoz1Y&t=19s)
 - [Fork Uniswap — EatTheBlocks](https://www.youtube.com/watch?v=U3fTTqHy7F4)
 - [Uniswap — Finematics](https://www.youtube.com/watch?v=LpjMgS4OVzs)
