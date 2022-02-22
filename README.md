@@ -3,7 +3,6 @@
 ## Navigation
 
 - [Official Docs/Whitepapers](#official-docswhitepapers)
-- [Uniswap v2 Overview](https://uniswap.org/blog/uniswap-v2)
 - [Source Code](#source-code)
 - [Research papers/Articles](#research-papersarticles)
 - [Videos/Podcasts/Tutorials](#videospodcaststutorials)
@@ -12,6 +11,7 @@
 ## Official Docs/Whitepapers
 - [Official docs](https://docs.uniswap.org/)
 - [Original whitepaper](https://hackmd.io/@HaydenAdams/HJ9jLsfTz)
+- [Uniswap v2 Overview](https://uniswap.org/blog/uniswap-v2)
 - [Uniswap v2 whitepaper](https://uniswap.org/whitepaper.pdf)
 - [Uniswap v3 whitepaper](https://uniswap.org/whitepaper-v3.pdf)
 - [Uniswap v3 liquidity math explainer](https://atiselsts.github.io/pdfs/uniswap-v3-liquidity-math.pdf)
