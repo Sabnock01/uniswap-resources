@@ -3,6 +3,7 @@
 ## Navigation
 
 - [Official Docs/Whitepapers](#official-docswhitepapers)
+- [Uniswap v2 Overview](https://uniswap.org/blog/uniswap-v2)
 - [Source Code](#source-code)
 - [Research papers/Articles](#research-papersarticles)
 - [Videos/Podcasts/Tutorials](#videospodcaststutorials)
