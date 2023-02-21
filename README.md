@@ -24,6 +24,7 @@
 - [Uniswap v3 periphery](https://github.com/Uniswap/v3-periphery)
 
 ## Research papers/Articles
+- [A Deep Dive of Uniswap's Governance](https://gov.uniswap.org/t/a-deep-dive-of-uniswaps-governance/19792)
 - [An analysis of Uniswap markets](https://web.stanford.edu/~guillean/papers/uniswap_analysis.pdf)
 - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf)
 - [On Liquidity Mining for Uniswap v3](https://arxiv.org/pdf/2108.05800.pdf)
