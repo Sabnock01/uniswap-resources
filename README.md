@@ -56,3 +56,4 @@
 - [Uniswap combined metrics dashboard by Dan Robinson](https://dune.xyz/danrobinson/uniswap-combined-metrics)
 - [Flasbots: simple-arbitrage](https://github.com/flashbots/simple-arbitrage)
 - [cadCad-org: demos](https://github.com/cadCAD-org/demos/tree/master/demos/Multiscale/uniswap)
+- [Uniswap V3 Book](https://uniswapv3book.com/)
