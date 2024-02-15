@@ -58,3 +58,4 @@
 - [cadCad-org: demos](https://github.com/cadCAD-org/demos/tree/master/demos/Multiscale/uniswap)
 - [Uniswap V2 Book — RareSkills](https://www.rareskills.io/uniswap-v2-book)
 - [Uniswap V3 Book — Jeiwan](https://uniswapv3book.com/)
+- [Uniswap V2 and V3 historical price and liquidity data](https://tradingstrategy.ai/trading-view/backtesting)https://tradingstrategy.ai/trading-view/backtesting)
